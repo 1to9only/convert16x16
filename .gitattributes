@@ -1,0 +1,4 @@
+$ cat .gitattributes
+*.0f linguist-language=Text
+*.1g linguist-language=Text
+*.16 linguist-language=Text
