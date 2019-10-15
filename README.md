@@ -44,4 +44,5 @@ INVOCATION
 - test3.16 - http://forum.enjoysudoku.com/blue-s-ultimate-16x16s-t33587.html
 - test4.1g - http://forum.enjoysudoku.com/post275765.html#p275765
 - test5.1g - the first grid from test4.1g
+- test6.1g - http://forum.enjoysudoku.com/post276187.html#p276187
 
