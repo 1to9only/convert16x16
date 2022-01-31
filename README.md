@@ -25,7 +25,7 @@ FILE  input file containing the 16x16 sudoku grid(s).
 
   -?  displays this help.
 
-INVOCATION
+EXAMPLES
   convert16x16.exe -f  test1.0f > test1.txt
   convert16x16.exe -16 test2.16 > test2.txt
   convert16x16.exe -16 test3.16 > test3.txt
@@ -35,6 +35,9 @@ INVOCATION
   convert16x16.exe -16 -c > output.txt
 
   convert16x16.exe -?
+
+BUILD: on Jan 31 2022 at 09:14:00.
+
 ```
 
 ## Credits
